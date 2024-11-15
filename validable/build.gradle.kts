@@ -54,7 +54,7 @@ android {
 
 dependencies {
     implementation("androidx.core:core-ktx:1.13.1")
-    implementation(platform("androidx.compose:compose-bom:2024.06.00"))
+    implementation(platform("androidx.compose:compose-bom:2024.11.00"))
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("androidx.compose.ui:ui:1.6.8")
     testImplementation("junit:junit:4.13.2")
